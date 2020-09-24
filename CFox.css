@@ -15,10 +15,12 @@ body {
     /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
     color: #000000;
     background-color: #CCC;
-    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-family: Calibri, Verdana, Arial, Helvetica, sans-serif;
     font-size: 100%;
     /* min-width: 800px; */
     max-width: 1200px;
+    letter-spacing: -1px;
+    font-size: 1.25em;
 }
 
 
@@ -31,7 +33,6 @@ body.lft {
     text-align: left;
     color: #000000;
     background-color: #ffc;
-    font-family: Verdana, Arial, Helvetica, sans-serif;
     font-size: 100%;
     min-width: 800px;
     max-width: 1200px;
@@ -39,7 +40,7 @@ body.lft {
 
 textarea.main {
     background-color: #F5FAFF;
-    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-family: Calibri, Verdana, Arial, Helvetica, sans-serif;
     font-size: 100%;
 }
 
@@ -81,21 +82,15 @@ p.one {
     color: darkred;
 }
 
-a:focus {
-    color: #daa520;
-    font: 600 14px "Trebuchet", "Helvetica", sans-serif;
-    text-decoration: underline;
-}
-
+a:focus,
 a:hover {
     color: #daa520;
-    font: 600 14px "Trebuchet", "Helvetica", sans-serif;
     text-decoration: underline;
 }
 
-a:link {
+a {
     color: #00008b;
-    font: 600 14px "Trebuchet", "Helvetica", sans-serif;
+    font: 600 1.25em "Calibri", "Trebuchet", "Helvetica", sans-serif;
     text-decoration: none;
 }
 
@@ -110,7 +105,7 @@ a:link {
     margin-left: 30px;
     margin-right: 3px;
     margin-bottom: 10px;
-    font: bold 0.8em Arial, Helvetica, sans-serif;
+    font: bold 0.8em Calibri, Arial, Helvetica, sans-serif;
     color: #333333;
 }
 
@@ -184,7 +179,7 @@ Tips for sidebar1:
     font-family: Georgia, "Times New Roman", Times, serif;
     font-weight: bold;
     position: relative;
-    font-size: 85%;
+    font-size: 1.25em;
 }
 
 .thrColHybHdr #sidebarfont {
@@ -199,9 +194,9 @@ Tips for sidebar1:
     text-align: left;
     margin-left: 1px;
     margin-right: 10px;
-    font-size: 10pt;
+    font-size: 1.25em;
     color: #666666;
-    font-family: Tahoma, Veranda, "Arial", Helvetic, sans-serif;
+    font-family: Tahoma, Verdana, "Arial", Helvetica, sans-serif;
     font-weight: bold;
     position: relative;
     font-size: 100%;
@@ -214,10 +209,10 @@ Tips for sidebar1:
     background-color: #D7D9E2;
     margin-left: 10px;
     padding: 0px;
-    font-size: 9pt;
+    font-size: 1.25em;
     font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
-    line-height: 13px;
+    line-height: 1em;
     font-weight: 400;
 }
 
@@ -235,7 +230,6 @@ Tips for sidebar1:
     margin-bottom: 2em;
     margin-left: 10em;
     background-color: #ECEBE9;
-    font-size: 90%;
     padding-top: 0em;
     padding-right: 2em;
     padding-bottom: 2em;
@@ -248,7 +242,6 @@ Tips for sidebar1:
     margin-bottom: 2em;
     margin-left: 10em;
     background-color: #EBF0FF;
-    font-size: 90%;
     padding-top: 0em;
     padding-right: 2em;
     padding-bottom: 2em;
@@ -261,7 +254,6 @@ Tips for sidebar1:
     margin-bottom: 2em;
     margin-left: 10em;
     background-color: #ECEBE9;
-    font-size: 90%;
     padding-top: 0em;
     padding-right: 2em;
     padding-bottom: 2em;
@@ -316,7 +308,7 @@ Tips for sidebar1:
 }
 
 MenuBar {
-    font-family: Arial Black, Gadget, sans-serif;
+    font-family: "Arial Black", Gadget, sans-serif;
 }
 
 .thrColHybHdr #container #sidebar1 pre strong {
@@ -324,8 +316,6 @@ MenuBar {
 }
 
 .footer {
-    font-family: Verdana, Geneva, sans-serif;
-    font-size: small;
     color: #FFC;
     background-color: #ABA47F;
     border-top-width: medium;
@@ -346,7 +336,6 @@ MenuBar {
     -moz-border-radius: 25px;
     -webkit-border-radius: 25px;
     font-family: "Courier New", Courier, monospace;
-    font-size: 24px;
     text-transform: uppercase;
 }
 
