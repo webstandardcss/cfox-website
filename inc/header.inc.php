@@ -99,11 +99,11 @@
 </td>
 </tr>
 <tr>
-<td colspan="2"><a onmouseover="MM_swapImage('payment','','/images/rbso.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.cfoxlawoffice.com/payment_options.html"><img id="payment" src="/images/rbsStatic.gif" border="0" alt="Payment Options" vspace="0" width="18" height="18" align="top" />&nbsp;&nbsp;<small>PAYMENT<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OPTIONS</small></a></td>
+<td colspan="2"><a onmouseover="MM_swapImage('payment','','/images/rbso.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.cfoxlawoffice.com/payment_options.html"><img id="payment" src="/images/rbsStatic.gif" border="0" alt="Payment Options" vspace="0" width="18" height="18" align="top" />&nbsp;&nbsp;<small>PAYMENT<br /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;OPTIONS</small></a></td>
 </tr>
 <tr>
 <td colspan="2">
-<p><a onmouseover="MM_swapImage('blog','','/images/rbso.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.cfoxlawoffice.com/FoxLaw/" target="_blank"><img id="blog" src="/images/rbsStatic.gif" border="0" alt="Blog" vspace="0" width="18" height="18" align="top" />&nbsp;&nbsp;<small>FOX LAW<br /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BLOG</small></a></p>
+<p><a onmouseover="MM_swapImage('blog','','/images/rbso.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.cfoxlawoffice.com/FoxLaw/" target="_blank"><img id="blog" src="/images/rbsStatic.gif" border="0" alt="Blog" vspace="0" width="18" height="18" align="top" />&nbsp;&nbsp;<small>FOX LAW<br /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;BLOG</small></a></p>
 </td>
 </tr>
 </tbody>
