@@ -1,41 +1,34 @@
 <!DOCTYPE html>
 <html>
 	<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <!-- Unique page header title and meta tags -->
+        <?php echo $pageHeader; ?>        
 
-<!--Meta Data for SEO-->
-
-<?php include "inc/meta.inc.php"; ?>
-<meta name="description" content="The Law Office of Christina Fox is serving the Dallas Fort Worth Metroplex handling consumer and business bankruptcy, accident and personal injury, criminal law, traffic tickets and warrants in Tarrant county and surrounding areas. ">
-<meta name="keywords" content="traffic ticket, citation, summons, traffic violations, fort worth traffic ticket, traffic ticket attorney, attorney, lawyer, texas, defense attorney, speeding, stop sign, no insurance, reckless driving, traffic ticket lawyer, traffic ticket court, traffic court, fight traffic ticket, traffic ticket dismissal, fighting traffic ticket, class c misdemeanor, tarrant county,Hurst, Euless, Bedford, HEB,tarrant, Ft. Worth lawyer, Fort Worth lawyer, Attorney, Attorneys, Certified, Law, Lawyer, Lawyers, family lawyer, divorce lawyer, custody lawyer, child support lawyer, Visitation lawyer, Arlington, Mid-Cities traffic ticket lawyer, Hurst lawyer, Euless lawyer, Bedford lawyer, Grapevine lawyer, Haltom City, Richland Hills lawyer, North Richland Hills lawyer, Mansfield, Keller, Southlake, southlake traffic violation, Colleyville traffic tickets, colleyville bankruptcy attorney, colleyville bankruptcy lawyer, colleyville personal injury attorney, colleyville wrongful death lawyer, colleyville family law lawyer, colleyville family law attorney, colleyville criminal defense lawyer, colleyville criminal defense attorney, Samson Park, Westworth Village, Forest Hills, Benbrook, Aledo, Azle, Saginaw, Watauga, Pantego, Crowley, Kennedale, Law, Association,texas, traffic tickets tx,christina fox, attorney,Fox,Family Law,divorces, child custody, child support, spousal support, modifications, enforcements, adoptions, marital agreements, Consumer Bankruptcy, Chapter7,Chapter13, family-based, Criminal Defense attorney, criminal defense lawyer, expunctions, non-disclosures, dwi, drug crimes, traffic citations, other, felonies, misdemeanors, Personal injury, Wrongful death, trusts,DFW, Fort Worth,Fort Worth bankruptcy attorney,Fort Worth bankruptcy lawyer,Fort Worth,Texas,attorney,lawyer,consumer bankruptcy,bankruptcy lawyer,business bankruptcy,bankruptcy attorney,Chapter 7,Chapter 11, Chapter 13, traffic violations, traffic tickets,">
-
-<title>The Law Office of Christina Fox is serving the Dallas Fort Worth Area</title>
-
-<link rel="shortcut icon" href="/images/ICON.jpg" />
-<script type="text/javascript" src="CFox.js"></script>
-<link href="CFox.css" rel="stylesheet" type="text/css" />
-
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" /> 
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+        <link rel="shortcut icon" href="/images/ICON.jpg" />
+        <script type="text/javascript" src="CFox.js"></script>
+        <link href="CFox.css" rel="stylesheet" type="text/css" />
 		<link href="jquery-ui-1.8.16.custom.css" rel="stylesheet" />
 		<script src="http://code.jquery.com/jquery-1.7.1.js"></script>
 		<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js"></script>
-		
 		<script>
-	$(function() {
-	
-		$( "#dialog" ).dialog({
-			width: 440,
-			modal: true,
-                        show: "blind",
-			hide: "explode",
-			buttons: {
-				Ok: function() {
-					$( this ).dialog ( "close" );
-				}
-			}
-		});
-	});
+        $(function() {        
+            $( "#dialog" ).dialog({
+                width: 440,
+                modal: true,
+                show: "blind",
+                hide: "explode",
+                buttons: {
+                    Ok: function() {
+                        $( this ).dialog ( "close" );
+                    }
+                }
+            });
+        });
 		</script>
-		
 	</head>
 <div id="fb-root"></div>
 
