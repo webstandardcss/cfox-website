@@ -3,6 +3,11 @@
     color: #0000F3;
 }
 
+#mainContent+p {
+    margin: 0 auto;
+    width: 500px;
+}
+
 .fb_iframe_widget {
     top: -3px !important;
 }
