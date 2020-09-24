@@ -211,6 +211,10 @@ Tips for sidebar1:
     font-size: 100%;
 }
 
+.thrColHybHdr #sidebarfont a {
+    top: -3px;
+}
+
 .thrColHybHdr #sidebar2 {
     float: right;
     width: 17em;
