@@ -402,7 +402,8 @@ playback timings (ms):
     .thrColHybHdr #sidebar2 {
         display: none;
     }
-    .thrColHybHdr #sidebarfont br {
+    .thrColHybHdr #sidebarfont br,
+    .thrColHybHdr #sidebarfont span {
         display: none;
     }
     .thrColHybHdr #sidebarfont {

@@ -83,7 +83,7 @@
 </td>
 </tr>
 <tr>
-<td colspan="2"><a onmouseover="MM_swapImage('practice_areas','','/images/rbso.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.cfoxlawoffice.com/practice_areas.html"><img id="practice_areas" src="/images/rbsStatic.gif" border="0" alt="Practice Areas" width="18" height="18" align="top" />&nbsp;&nbsp;<small>PRACTICE <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AREAS</small></a></td>
+<td colspan="2"><a onmouseover="MM_swapImage('practice_areas','','/images/rbso.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.cfoxlawoffice.com/practice_areas.html"><img id="practice_areas" src="/images/rbsStatic.gif" border="0" alt="Practice Areas" width="18" height="18" align="top" />&nbsp;&nbsp;<small>PRACTICE <br /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AREAS</small></a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -103,7 +103,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p><a onmouseover="MM_swapImage('blog','','/images/rbso.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.cfoxlawoffice.com/FoxLaw/" target="_blank"><img id="blog" src="/images/rbsStatic.gif" border="0" alt="Blog" vspace="0" width="18" height="18" align="top" />&nbsp;&nbsp;<small>FOX LAW<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BLOG</small></a></p>
+<p><a onmouseover="MM_swapImage('blog','','/images/rbso.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.cfoxlawoffice.com/FoxLaw/" target="_blank"><img id="blog" src="/images/rbsStatic.gif" border="0" alt="Blog" vspace="0" width="18" height="18" align="top" />&nbsp;&nbsp;<small>FOX LAW<br /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BLOG</small></a></p>
 </td>
 </tr>
 </tbody>
