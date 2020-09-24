@@ -211,8 +211,9 @@ Tips for sidebar1:
     font-size: 100%;
 }
 
-.thrColHybHdr #sidebarfont a {
-    top: -3px;
+.thrColHybHdr #sidebarfont small {
+    top: -4px;
+    position: relative;
 }
 
 .thrColHybHdr #sidebar2 {
