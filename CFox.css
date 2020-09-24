@@ -402,9 +402,6 @@ playback timings (ms):
 */
 
 @media screen and (max-width: 639px) {
-    .thrColHybHdr #sidebar2 {
-        display: none;
-    }
     .thrColHybHdr #sidebarfont br,
     .thrColHybHdr #sidebarfont span {
         display: none;
@@ -421,6 +418,9 @@ playback timings (ms):
 }
 
 @media screen and (max-width: 960px) {
+    .thrColHybHdr #sidebar2 {
+        display: none;
+    }
     .thrColHybHdr #header {
         background-image: url(/images/CFoxLawBanner-small.jpg);
     }
