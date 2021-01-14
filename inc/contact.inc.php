@@ -14,4 +14,7 @@
     <li>San Antonio Location: <br />
       5460 Babcock Road, Suite 120, San Antonio Texas 78240<br />
         (210)756-8393</li>
+    <li>Lubbock Location: <br />
+      1614 Ave M, Suite 45, Lubbock, TX 79401<br />
+        (806)639-4335</li>
 </ul>
