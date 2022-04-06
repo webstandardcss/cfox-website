@@ -9,7 +9,7 @@
         601 Quail Valley Drive, Georgetown, Texas 78626<br />
         (512) 591-8539</li>
     <li>Houston Location: <br />
-      5100 Westheimer Road, Suite 200, Houston Texas 77056<br />
+      1000 Main Street, Suite 2300, Houston Texas 77002<br />
         (281)591-4751</li>
     <li>San Antonio Location: <br />
       5460 Babcock Road, Suite 120, San Antonio Texas 78240<br />

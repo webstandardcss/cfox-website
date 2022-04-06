@@ -75,31 +75,31 @@
 <table border="0">
 <tbody>
 <tr>
-<td colspan="2"><a onmouseover="MM_swapImage('home','','/images/rbso.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.cfoxlawoffice.com/index.html"><img id="home" src="/images/rbsStatic.gif" border="0" alt="Home" vspace="0" width="18" height="18" align="top" />&nbsp;&nbsp;<small>HOME</small><br /></a></td>
+<td colspan="2"><a onmouseover="MM_swapImage('home','','/images/rbso.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.cfoxlawoffice.com/index.php"><img id="home" src="/images/rbsStatic.gif" border="0" alt="Home" vspace="0" width="18" height="18" align="top" />&nbsp;&nbsp;<small>HOME</small><br /></a></td>
 </tr>
 <tr>
 <td colspan="2">
-<p><a onmouseover="MM_swapImage('profile','','/images/rbso.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.cfoxlawoffice.com/profile.html"><img id="profile" src="/images/rbsStatic.gif" border="0" alt="Attorney Profile" width="18" height="18" align="top" />&nbsp;&nbsp;<small>PROFILE</small></a></p>
+<p><a onmouseover="MM_swapImage('profile','','/images/rbso.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.cfoxlawoffice.com/profile.php"><img id="profile" src="/images/rbsStatic.gif" border="0" alt="Attorney Profile" width="18" height="18" align="top" />&nbsp;&nbsp;<small>PROFILE</small></a></p>
 </td>
 </tr>
 <tr>
-<td colspan="2"><a onmouseover="MM_swapImage('practice_areas','','/images/rbso.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.cfoxlawoffice.com/practice_areas.html"><img id="practice_areas" src="/images/rbsStatic.gif" border="0" alt="Practice Areas" width="18" height="18" align="top" />&nbsp;&nbsp;<small>PRACTICE <br /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AREAS</small></a></td>
+<td colspan="2"><a onmouseover="MM_swapImage('practice_areas','','/images/rbso.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.cfoxlawoffice.com/practice_areas.php"><img id="practice_areas" src="/images/rbsStatic.gif" border="0" alt="Practice Areas" width="18" height="18" align="top" />&nbsp;&nbsp;<small>PRACTICE <br /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AREAS</small></a></td>
 </tr>
 <tr>
 <td colspan="2">
-<p><a onmouseover="MM_swapImage('affiliations','','/images/rbso.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.cfoxlawoffice.com/affiliations.html"><img id="affiliations" src="/images/rbsStatic.gif" border="0" alt="Affiliations" width="18" height="18" align="top" />&nbsp;&nbsp;<small>AFFILIATIONS</small></a></p>
+<p><a onmouseover="MM_swapImage('affiliations','','/images/rbso.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.cfoxlawoffice.com/affiliations.php"><img id="affiliations" src="/images/rbsStatic.gif" border="0" alt="Affiliations" width="18" height="18" align="top" />&nbsp;&nbsp;<small>AFFILIATIONS</small></a></p>
 </td>
 </tr>
 <tr>
-<td colspan="2"><a onmouseover="MM_swapImage('awards','','/images/rbso.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.cfoxlawoffice.com/awards.html"><img id="awards" src="/images/rbsStatic.gif" border="0" alt="Awards" width="18" height="18" align="top" />&nbsp;&nbsp;<small>AWARDS</small></a></td>
+<td colspan="2"><a onmouseover="MM_swapImage('awards','','/images/rbso.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.cfoxlawoffice.com/awards.php"><img id="awards" src="/images/rbsStatic.gif" border="0" alt="Awards" width="18" height="18" align="top" />&nbsp;&nbsp;<small>AWARDS</small></a></td>
 </tr>
 <tr>
 <td colspan="2">
-<p><a onmouseover="MM_swapImage('contactus','','/images/rbso.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.cfoxlawoffice.com/contact_us.html"><img id="contactus" src="/images/rbsStatic.gif" border="0" alt="Contact Us" width="18" height="18" align="top" />&nbsp;&nbsp;<small>CONTACT&nbsp;US</small></a></p>
+<p><a onmouseover="MM_swapImage('contactus','','/images/rbso.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.cfoxlawoffice.com/contact_us.php"><img id="contactus" src="/images/rbsStatic.gif" border="0" alt="Contact Us" width="18" height="18" align="top" />&nbsp;&nbsp;<small>CONTACT&nbsp;US</small></a></p>
 </td>
 </tr>
 <tr>
-<td colspan="2"><a onmouseover="MM_swapImage('payment','','/images/rbso.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.cfoxlawoffice.com/payment_options.html"><img id="payment" src="/images/rbsStatic.gif" border="0" alt="Payment Options" vspace="0" width="18" height="18" align="top" />&nbsp;&nbsp;<small>PAYMENT<br /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;OPTIONS</small></a></td>
+<td colspan="2"><a onmouseover="MM_swapImage('payment','','/images/rbso.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.cfoxlawoffice.com/payment_options.php"><img id="payment" src="/images/rbsStatic.gif" border="0" alt="Payment Options" vspace="0" width="18" height="18" align="top" />&nbsp;&nbsp;<small>PAYMENT<br /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;OPTIONS</small></a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -116,7 +116,7 @@
 <p>Wrongful Death/<br />Personal Injury</p>
 <p>Family Law</p>
 <p>Bankruptcy</p>
-<p>Criminal Defense</p>
+<p></p>
 <p><img longdesc="/images/FoxLawLogo-a.png" src="/images/FoxLawLogo-a.png" alt="justice" hspace="25" vspace="10" width="61" height="49" /></p>
 </div>
 <!-- TemplateBeginEditable name="MainContent" -->
