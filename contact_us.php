@@ -19,6 +19,7 @@ EOT;
                 <hr /> Fax: (817) 719-9109
                 <!-- <p><em>For a Legal Consultation </em><a href="ConsultationForm.php">(click here)</a>.</p> -->
                 <p>&nbsp;</p>
+		<?php include "inc/hours.inc.php"; ?>
             </td>
             <td style="width: 35px;">&nbsp;</td>
             <!-- Map -->

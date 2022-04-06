@@ -29,8 +29,6 @@ EOT;
 
 <div id="business_bankruptcy"><p>Chapter 11 bankruptcy, also known as a business bankruptcy, is for corporations that have the potential to be a viable business if it were free from debt.  This bankruptcy would allow the business to restructure secured debts, reduce unsecured debts and still continue to operate.  It will help the business owner put a Plan of Reorganization in place so that the business can continue to flourish once the bankruptcy is completed.  The goal of a Chapter 11 is to propose a plan that will make a struggling business a more profitable business.</p></div>
 
-<p class="txt_blue"><img id="CriminalDefense" src="/images/open.png" alt="criminal defense" width="20" height="15" onclick="ToggleVisibility('CriminalDefense', 'criminal_defense')" /><strong>&nbsp; &nbsp;Criminal Defense</strong></p>
 
-<div id="criminal_defense"><p>Criminal punishments for crimes are outlined in the Texas State Penal Code. For each crime committed such as DWIs, Drug Crimes, Other Felonies and Misdemeanors, there are a variety of defenses a defendant may use to prove his innocence, argue for the case to be dismissed or have his sentence reduced. For the criminal defendant to be found guilty the prosecuting attorney must prove the defendant is guilty beyond a reasonable doubt.  If you've been accused of a crime, it is important that you get competent legal counsel, such as Christina Fox, attorney at law, as soon as possible.<br /><br /> Call or email now for your consultation:</p></div>
 
 <?php include "inc/footer.inc.php"; ?>

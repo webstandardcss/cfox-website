@@ -13,11 +13,11 @@ EOT;
 
 <h3>Client Testimonials on Service from The Law Office of Christina Fox</h3>
 <p><strong>If Ms. Fox is on the case, the prosecution better come correct!</strong></p>
-<p>Posted by a Criminal Defense client</p>
+<p>Posted by a  client</p>
 <p><em>"I was facing potential jail time for an offense that occurred several years prior and Ms. Fox not only had the case dismissed, but charged me far less than I expected to pay. Good lookin out Ms. Fox."</em></p>
 
 <p><strong>2 Cases Dismissed!</strong></p>
-<p>Posted by PAUL, a Criminal Defense client</p>
+<p>Posted by PAUL, a  client</p>
 <p><em>"I had criminal charges in two counties, and Attorney Fox got both charges dismissed. She was there for me when I needed her most and didn't charge me an arm and a leg. I appreciate you very much and if I need anything else I know who to call."</em></p>
 
 <p><strong>Top-Notch Customer Service!</strong></p>
